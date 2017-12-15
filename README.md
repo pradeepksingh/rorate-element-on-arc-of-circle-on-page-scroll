@@ -2,3 +2,6 @@
 Slide element on arc of circle on page scroll.
 
 Using jQuery Path JS
+
+
+@Pradeep Singh
